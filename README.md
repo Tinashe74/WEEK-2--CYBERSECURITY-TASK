@@ -4,15 +4,15 @@
 
 | Report information | Details |
 |---|---|
-| **Assessment** | External reconnaissance and local network discovery |
+| **Report title** | Pentesting Report |
 | **Pentester** | `Tinashe Victor Banda` |
+| **Batch** | `B084- Networkwalks` |
+
 | **Primary domain** | `networkwalks.com` |
 | **Report date** | 14 November 2026 (date visible in the Zenmap screenshot) |
 | **Prepared from** | Supplied screenshots |
-| **Activity Completed** | Host Discovery, Port Scanning, Web Technonolgy Fingerprinting and WAF Detection|
-
-
-> **Scope note:** This report documents the results visible in the supplied screenshots. It is not evidence of a complete penetration test, exploitation, or a full security audit. Testing should only be performed on systems for which explicit authorization has been granted.
+| **Activities completed** | Host discovery, port scanning, web technology fingerprinting, and WAF detection |
+| **Scope note** | This report documents the results visible in the supplied screenshots. It is not evidence of a complete penetration test, exploitation, or a full security audit. Testing should only be performed on systems for which explicit authorization has been granted. |
 
 ---
 
