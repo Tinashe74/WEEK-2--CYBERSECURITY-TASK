@@ -16,7 +16,7 @@
 
 ---
 
-## 1. Introduction
+## 1. Introduction.
 
 This report summarizes reconnaissance activities shown in the Week 2 screenshots. The activities gathered publicly available domain-registration and DNS information, identified web technologies and HTTP response headers for `networkwalks.com`, checked for a web application firewall (WAF), and performed a host and port discovery scan on the local `192.168.66.0/24` subnet.
 
