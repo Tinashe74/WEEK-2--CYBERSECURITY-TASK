@@ -7,7 +7,6 @@
 | **Report title** | Pentesting Report |
 | **Pentester** | `Tinashe Victor Banda` |
 | **Batch** | `B084- Networkwalks` |
-
 | **Primary domain** | `networkwalks.com` |
 | **Report date** | 14 November 2026 (date visible in the Zenmap screenshot) |
 | **Prepared from** | Supplied screenshots |
