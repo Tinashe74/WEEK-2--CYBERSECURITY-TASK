@@ -5,9 +5,8 @@
 | Report information | Details |
 |---|---|
 | **Assessment** | External reconnaissance and local network discovery |
-| **Name** | `Tinashe Victor Banda` |
+| **Pentester** | `Tinashe Victor Banda` |
 | **Primary domain** | `networkwalks.com` |
-| **Additional network shown in evidence** | `192.168.66.0/24` (local network) |
 | **Report date** | 14 November 2026 (date visible in the Zenmap screenshot) |
 | **Prepared from** | Supplied screenshots |
 | **Activity Completed** | Host Discovery, Port Scanning, Web Technonolgy Fingerprinting and WAF Detection|
